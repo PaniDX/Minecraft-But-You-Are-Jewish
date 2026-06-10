@@ -1,0 +1,5 @@
+name: HalakhaEnforcer
+version: '1.0'
+main: com.religionchallenge.plugin.Main
+api-version: '1.21'
+description: Enforces Halakhic laws on the server including Shabbat observance and kosher dietary restrictions.
